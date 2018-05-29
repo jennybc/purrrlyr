@@ -10,6 +10,6 @@ and dplyr. They have been removed from purrr in order to make the
 package lighter and because they have been replaced by other solutions
 in the tidyverse.
 
-Please see Jenny Brian's
+Please see Jenny Bryan's
 [webinar on row-oriented workflows](https://github.com/jennybc/row-oriented-workflows#readme)
 for some alternative approaches.
